@@ -27,16 +27,19 @@ A full-stack **Task Manager application** built to manage daily tasks efficientl
 - npm  
 
 ##  Project Structure
+
+
 task-manager/
-├── frontend/ # React frontend
-│ ├── src/
-│ └── public/
-├── backend/ # Node.js + Express backend
-│ ├── models/
-│ ├── routes/
-│ └── controllers/
+├── frontend/              # React frontend
+│   ├── src/
+│   └── public/
+├── backend/               # Node.js + Express backend
+│   ├── models/
+│   ├── routes/
+│   └── controllers/
 ├── package.json
 └── README.md
+
 
 
 ##  Installation & Setup
